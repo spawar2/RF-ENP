@@ -1,4 +1,4 @@
-# RF-ENP collaboration with Dr. Swinton, Kean University https://www.kean.edu/directory/derrick-swinton
+# RF-ENP collaboration with Dr. Swinton, Kean University, Union, New Jersey, USA. https://www.kean.edu/directory/derrick-swinton
 [R Shiny: MissForest, randomForest, caret, UI, Server]
 [Engineered nanoparticles (ENPs) Toxicity Prediction Tool](https://yalegenomics.shinyapps.io/appenp/)
 

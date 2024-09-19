@@ -6,3 +6,7 @@
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
+
+
+ENP-RF-Pawar.Rd: Engineered Nano Particles (ENP) properties, Data read, miss forest imputation for missing values, random forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
+server.R, UI.R: User interface and backend for R Shiny application.

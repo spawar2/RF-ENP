@@ -10,4 +10,4 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 
 ENP-RF-Pawar.Rd: Engineered Nano Particles (ENP) properties, Data read, miss forest imputation for missing values, random forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 server.R, UI.R: User interface and backend for R Shiny application.
-selected function(hcmap, fluidPage, renderHighchart, shinyApp, missForest, randomForest, predict, confusionMatrix)
+selected function(hcmap, fluidPage, renderHighchart, shinyApp, missForest, randomForest, predict, confusionMatrix).

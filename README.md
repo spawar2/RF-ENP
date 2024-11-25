@@ -12,7 +12,7 @@ ENP-RF-Pawar.Rd: Engineered Nano Particles (ENP) properties, Data read, miss for
 server.R, UI.R: User interface and backend for R Shiny application.
 selected function(hcmap, fluidPage, renderHighchart, shinyApp, missForest, randomForest, predict, confusionMatrix).
 
-               Accuracy : 1          
+             Testing:  Accuracy : 1          
                  95% CI : (0.5407, 1)
     No Information Rate : 0.6667     
     P-Value [Acc > NIR] : 0.08779    

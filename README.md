@@ -12,7 +12,7 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 ENP-RF-Pawar.Rd: Engineered Nano Particles (ENP) properties (Toxicity	coresize	hydrosize	surface charge	surface area	Hsf	Ec	Ev	MeO	Exposure time	dosage	enthalpy	ratio	e	esum	esumbyo	Molecular Weight	NMetal	NOxygen	ox	viability), Data read, miss forest imputation for missing values, random forest, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
 server.R, UI.R: User interface and backend for R Shiny application.
 selected function(hcmap, fluidPage, renderHighchart, shinyApp, missForest, randomForest, predict, confusionMatrix).
-Accuracy (3, 5, 10 Fold similar values).
+Accuracy (3, 5, 10 Fold similar values). binomial test with null hypothesis accuracy = NIR or accuracy.
              Testing:  Accuracy : 1          
                  95% CI : (0.5407, 1)
     No Information Rate : 0.6667     

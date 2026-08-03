@@ -28,6 +28,10 @@ Accuracy (3, 5, 10 Fold similar values). binomial test with null hypothesis accu
    Detection Prevalence : 0.3333     
       Balanced Accuracy : 1.0000  
 
+<img width="250" height="251" alt="NSF" src="https://github.com/user-attachments/assets/543eb382-57de-498e-9c6e-daf28ba9a636" />
+
+Funded by National Science Foundation Partnerships for Research and Education in Materials Research (PREM): Grant/award/project title: “Partnership for Research and Education in Soft Matter Research & Technology and Quantum Confinement Materials Design (SMaRT QD)" (July 1, 2026- August 31, 2027): Role: PI (Principal Investigator), NSF Award Number: 2122158, Effort=100%, 1.50 person per month release, Claflin Sub-award (Direct and indirect costs) $136,601.29. A grant collaboration and University in partnership between University of Delaware, Delaware State University and Claflin University, Orangeburg, South Carolina, USA. https://prem-dmr.org/projects/301
+
 https://www.java.com/
 https://www.php.net/
 https://www.mysql.com/
